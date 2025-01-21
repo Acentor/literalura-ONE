@@ -1,0 +1,6 @@
+com\alura\literalura\modelo\Autor.class
+com\alura\literalura\repositorio\RepositorioAutor.class
+com\alura\literalura\LiteraluraApplication.class
+com\alura\literalura\repositorio\RepositorioLibro.class
+com\alura\literalura\modelo\Libro.class
+com\alura\literalura\servicio\ServicioGutendex.class
